@@ -1,0 +1,16 @@
+{
+  "name": "webpack-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build":"webpack",
+    "watch":"webpack --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
